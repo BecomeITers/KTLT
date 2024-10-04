@@ -1,0 +1,5 @@
+﻿  Bai6.cpp
+E:\Kỹ thuật lập trình\Bai6\Bai6\Bai6.cpp(7,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Kỹ thuật lập trình\Bai6\Bai6\Bai6.cpp(18,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Kỹ thuật lập trình\Bai6\Bai6\Bai6.cpp(19,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Bai6.vcxproj -> E:\Kỹ thuật lập trình\Bai6\x64\Debug\Bai6.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\Sum(Sum(n)))\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D15716-7D6D-4DE6-A314-9C63EDD5B215}|ConsoleApplication3\\ConsoleApplication3.vcxproj|E:\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\Sum(Sum(n)))\\ConsoleApplication3\\ConsoleApplication3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0D15716-7D6D-4DE6-A314-9C63EDD5B215}|ConsoleApplication3\\ConsoleApplication3.vcxproj|solutionrelative:ConsoleApplication3\\ConsoleApplication3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication3.cpp",
+              "DocumentMoniker": "E:\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\Sum(Sum(n)))\\ConsoleApplication3\\ConsoleApplication3.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication3\\ConsoleApplication3.cpp",
+              "ToolTip": "E:\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\Sum(Sum(n)))\\ConsoleApplication3\\ConsoleApplication3.cpp",
+              "RelativeToolTip": "ConsoleApplication3\\ConsoleApplication3.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-04T14:41:38.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

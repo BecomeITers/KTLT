@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\Hi\u1EC7u hai s\u1ED1 nguy\u00EAn bignum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A782C54-39CA-4115-8592-60EB6E8EC90A}|Bai5\\Bai5.vcxproj|E:\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\Hi\u1EC7u hai s\u1ED1 nguy\u00EAn bignum\\Bai5\\Bai5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A782C54-39CA-4115-8592-60EB6E8EC90A}|Bai5\\Bai5.vcxproj|solutionrelative:Bai5\\Bai5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai5.cpp",
+              "DocumentMoniker": "E:\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\Hi\u1EC7u hai s\u1ED1 nguy\u00EAn bignum\\Bai5\\Bai5.cpp",
+              "RelativeDocumentMoniker": "Bai5\\Bai5.cpp",
+              "ToolTip": "E:\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\Hi\u1EC7u hai s\u1ED1 nguy\u00EAn bignum\\Bai5\\Bai5.cpp",
+              "RelativeToolTip": "Bai5\\Bai5.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAADwvzIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-16T16:42:23.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+﻿  Bai5.cpp
+E:\Kỹ thuật lập trình\Bai5\Bai5\Bai5.cpp(6,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Kỹ thuật lập trình\Bai5\Bai5\Bai5.cpp(14,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Kỹ thuật lập trình\Bai5\Bai5\Bai5.cpp(22,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Kỹ thuật lập trình\Bai5\Bai5\Bai5.cpp(23,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Kỹ thuật lập trình\Bai5\Bai5\Bai5.cpp(34,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Kỹ thuật lập trình\Bai5\Bai5\Bai5.cpp(53,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Bai5.vcxproj -> E:\Kỹ thuật lập trình\Bai5\x64\Debug\Bai5.exe

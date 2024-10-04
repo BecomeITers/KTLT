@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19E938E9-F931-4E17-ADC5-8F887EDFF986}|Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng\\Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng.vcxproj|E:\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng\\Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng\\Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19E938E9-F931-4E17-ADC5-8F887EDFF986}|Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng\\Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng.vcxproj|solutionrelative:Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng\\Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng.cpp",
+              "DocumentMoniker": "E:\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng\\Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng\\Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng.cpp",
+              "RelativeDocumentMoniker": "Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng\\Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng.cpp",
+              "ToolTip": "E:\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng\\Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng\\Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng.cpp",
+              "RelativeToolTip": "Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng\\Ki\u1EC3m tra d\u00E3y con c\u00F3 t\u1ED5ng b\u1EB1ng S kh\u00F4ng.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-20T16:05:32.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

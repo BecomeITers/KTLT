@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+E:\Kỹ thuật lập trình\Chuyển hệ thập phân thành hệ nhị phân\ConsoleApplication4\ConsoleApplication4.cpp(5,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication4.vcxproj -> E:\Kỹ thuật lập trình\Chuyển hệ thập phân thành hệ nhị phân\x64\Debug\ConsoleApplication4.exe

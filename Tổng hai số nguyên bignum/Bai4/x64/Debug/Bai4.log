@@ -1,0 +1,6 @@
+﻿  Bai4.cpp
+E:\Kỹ thuật lập trình\Bai4\Bai4\Bai4.cpp(23,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Kỹ thuật lập trình\Bai4\Bai4\Bai4.cpp(31,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Kỹ thuật lập trình\Bai4\Bai4\Bai4.cpp(32,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Kỹ thuật lập trình\Bai4\Bai4\Bai4.cpp(44,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Bai4.vcxproj -> E:\Kỹ thuật lập trình\Bai4\x64\Debug\Bai4.exe

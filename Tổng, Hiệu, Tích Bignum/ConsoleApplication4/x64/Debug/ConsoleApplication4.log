@@ -1,0 +1,12 @@
+﻿  ConsoleApplication4.cpp
+E:\Kỹ thuật lập trình\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(22,11): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+E:\Kỹ thuật lập trình\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(22,11): warning C4244:         with
+E:\Kỹ thuật lập trình\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(22,11): warning C4244:         [
+E:\Kỹ thuật lập trình\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(22,11): warning C4244:             _Ty=__int64
+E:\Kỹ thuật lập trình\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(22,11): warning C4244:         ]
+E:\Kỹ thuật lập trình\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(79,11): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+E:\Kỹ thuật lập trình\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(79,11): warning C4244:         with
+E:\Kỹ thuật lập trình\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(79,11): warning C4244:         [
+E:\Kỹ thuật lập trình\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(79,11): warning C4244:             _Ty=__int64
+E:\Kỹ thuật lập trình\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(79,11): warning C4244:         ]
+  ConsoleApplication4.vcxproj -> E:\Kỹ thuật lập trình\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe

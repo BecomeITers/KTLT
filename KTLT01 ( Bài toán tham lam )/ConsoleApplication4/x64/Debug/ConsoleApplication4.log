@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+E:\Kỹ thuật lập trình\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(4,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication4.vcxproj -> E:\Kỹ thuật lập trình\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe

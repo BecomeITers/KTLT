@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\T\u00EDnh t\u1ED5 h\u1EE3p ch\u1EADp k n ph\u1EA7n t\u1EED b\u1EB1ng \u0111\u1EC7 quy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90528E9B-2D03-43CF-A1B5-D4BA1FA6ED2F}|Bai15\\Bai15.vcxproj|E:\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\T\u00EDnh t\u1ED5 h\u1EE3p ch\u1EADp k n ph\u1EA7n t\u1EED b\u1EB1ng \u0111\u1EC7 quy\\Bai15\\Bai15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90528E9B-2D03-43CF-A1B5-D4BA1FA6ED2F}|Bai15\\Bai15.vcxproj|solutionrelative:Bai15\\Bai15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai15.cpp",
+              "DocumentMoniker": "E:\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\T\u00EDnh t\u1ED5 h\u1EE3p ch\u1EADp k n ph\u1EA7n t\u1EED b\u1EB1ng \u0111\u1EC7 quy\\Bai15\\Bai15.cpp",
+              "RelativeDocumentMoniker": "Bai15\\Bai15.cpp",
+              "ToolTip": "E:\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\T\u00EDnh t\u1ED5 h\u1EE3p ch\u1EADp k n ph\u1EA7n t\u1EED b\u1EB1ng \u0111\u1EC7 quy\\Bai15\\Bai15.cpp",
+              "RelativeToolTip": "Bai15\\Bai15.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T04:51:38.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
